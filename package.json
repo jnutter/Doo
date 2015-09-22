@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/jnutter/doo/issues"
   },
-  "homepage": "https://github.com/jnutter/doo"
+  "homepage": "https://github.com/jnutter/doo",
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.1.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "lodash.isdate": "^3.0.1",
+    "lodash.result": "^3.1.2",
+    "lodash.uniqueid": "^3.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0"
+  }
 }

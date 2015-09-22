@@ -1,0 +1,7 @@
+{
+    "stage": 0,
+    "retainLines": true,
+    "ignore": [
+        "node_modules/**/*.js"
+    ]
+}
